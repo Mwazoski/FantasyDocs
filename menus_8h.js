@@ -1,0 +1,36 @@
+var menus_8h =
+[
+    [ "MenuOpcion", "struct_menu_opcion.html", null ],
+    [ "ESTADO_MENU", "menus_8h.html#a1344b727ebdfac7d2288a3244567e81d", null ],
+    [ "MenuOpcion", "menus_8h.html#a6abc87a6021a2074f2c6dad0296495fd", null ],
+    [ "ESTADO_MENU", "menus_8h.html#a988ad3c6834f48991268e237cc48798c", [
+      [ "FIN", "menus_8h.html#a988ad3c6834f48991268e237cc48798caea3c073df31939c172972ef6ccbc988b", null ],
+      [ "SI", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca6cbe5ff42f143903e1c67abf94613791", null ],
+      [ "NO", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca0d077f5b932ce05e5b9f30c6087a2f31", null ],
+      [ "SISTEMA", "menus_8h.html#a988ad3c6834f48991268e237cc48798cacb2960b4b1328d9245dee57475147577", null ],
+      [ "ENTRAR", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca85ab6c12fa4aa93fc2bda4784312a88f", null ],
+      [ "REGISTRAR", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca3446e39ec6cf957d33c26fb2bb864477", null ],
+      [ "PERFIL", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca7572afd549515e7f5aeaa7396fbb029a", null ],
+      [ "CREAR_PLANTILLA", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca32868e2f7aed47bc23ebebe9b4f23946", null ],
+      [ "CONF_PLANTILLA", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca5b1a61ffc6b26604a7b5d708840586cc", null ],
+      [ "LISTAR_PLANTILLA", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca761948c938d9d8b8585fc68040c75883", null ],
+      [ "ELEM_PLANTILLA", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca9e2c22c23add636d3b9fd15a418dacbb", null ],
+      [ "RANKING", "menus_8h.html#a988ad3c6834f48991268e237cc48798caf870eaec0f5f73245d65a8bf1a8a7fdf", null ],
+      [ "CONF_PLANT_LISTA", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca8a0e2dafcda8e5eb40848fa9c66c573e", null ],
+      [ "CONF_PLANT_DISP", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca1d5f044eb13788f4de0793eddc8b3026", null ],
+      [ "CONF_PLANT_INCL", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca4a5e43fd356c9baeaf43de90da82d090", null ],
+      [ "CONF_PLANT_ELEMN", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca98d4acef66cf500e028e8f1287b814e5", null ],
+      [ "CRON_LISTAR", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca8fc6699f2903a26d3c8c8f6e9f8a2532", null ],
+      [ "CRON_VALORAR", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca9927afe052043f6627375eeb6f0cec60", null ],
+      [ "ADMIN_EQUIPOS", "menus_8h.html#a988ad3c6834f48991268e237cc48798cab96f412feadbe62b14d6de527b1c0c0f", null ],
+      [ "ADMIN_USUARIOS", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca7ada2c5b94249232062519056cb2d26a", null ],
+      [ "ADMIN_CONF", "menus_8h.html#a988ad3c6834f48991268e237cc48798ca4d87f29bb8ebe321e62f6f9e84bb8de6", null ]
+    ] ],
+    [ "generar_pregunta_sino", "menus_8h.html#a0635a26072476d126a9c4c536eabf1fb", null ],
+    [ "menu_acceder", "menus_8h.html#afcce2d2f45e71822e5123efebb494c6d", null ],
+    [ "menu_generico", "menus_8h.html#ac9dd443c260ef4d4dd588bdd665feb34", null ],
+    [ "menu_perfil", "menus_8h.html#acdb9138e43a705a1e6f75ff80abcd15a", null ],
+    [ "menu_registrar", "menus_8h.html#a6e68ccb82bfeb7b6f2f33e59214cd5b6", null ],
+    [ "menu_counter", "menus_8h.html#a020cbda90eb48d247c861fc5fe95fe2e", null ],
+    [ "NUM_INTENTOS", "menus_8h.html#a97cd0d0c22e26ed1cf8a9a5c4b98fee9", null ]
+];
